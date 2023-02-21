@@ -1,0 +1,29 @@
+{
+  "name": "backend-medcloud",
+  "version": "0.0.1",
+  "description": "Backend for the medcloud application.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davi33-emanoel/development-challenge-two.git"
+  },
+  "author": "davi33-emannoel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davi33-emanoel/development-challenge-two/issues"
+  },
+  "homepage": "https://github.com/davi33-emanoel/development-challenge-two#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "dynamoose": "^2.8.6",
+    "express": "^4.18.1",
+    "jest": "^28.1.3",
+    "node-fetch": "^2.6.1",
+    "supertest": "^6.2.4",
+    "uuid": "^8.3.2"
+  }
+}
